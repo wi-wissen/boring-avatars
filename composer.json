@@ -1,0 +1,7 @@
+{
+    "name": "wi-wissen/boring-avatars",
+    "description": "Boring avatars are tiny PHP Classes that generates custom, SVG-based avatars from any username and color palette like https://github.com/boringdesigners/boring-avatars.",
+    "require": {
+        "php": ">=8.0"
+    }
+}
