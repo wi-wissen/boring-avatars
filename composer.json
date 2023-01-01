@@ -1,6 +1,7 @@
 {
     "name": "wi-wissen/boring-avatars",
-    "description": "Boring avatars are tiny PHP Classes that generates custom, SVG-based avatars from any username and color palette like https://github.com/boringdesigners/boring-avatars.",
+    "description": "Boring Avatars are tiny PHP Classes that generates custom, SVG-based avatars from any username and color palette like https://github.com/boringdesigners/boring-avatars.",
+    "license": "MIT",
     "require": {
         "php": ">=8.0"
     }
