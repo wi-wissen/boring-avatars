@@ -2,6 +2,14 @@
 
 Boring avatars are tiny PHP Classes that generates custom, SVG-based avatars from any username and color palette like [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars).
 
+## Installation
+
+```bash
+composer require wi-wissen/boring-avatars
+```
+
+## Usage
+
 You can use the classes directly to get SVG as string:
 
 ```php
